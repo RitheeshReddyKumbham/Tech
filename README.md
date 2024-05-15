@@ -1,4 +1,4 @@
-In this project, let's build **Technology Cards** by applying the concepts we have learned till now.
+In this project, let's build **Technology Cards** 
 
 ### Refer to the image below:
 
